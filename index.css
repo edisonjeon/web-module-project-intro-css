@@ -92,3 +92,18 @@ span{
 	line-height:1.5rem;
 	margin:1% 0% 5% 0%;
 }
+
+.footer-img{
+	width:100%;
+}
+
+footer{
+	background-color:#F9E7DC;
+	display:inline-block;
+	width:100%;
+	font-size:1rem;
+	margin:0;
+	text-align:center;
+	padding:0% 0% 2% 0%;
+	border-radius:0;
+}
